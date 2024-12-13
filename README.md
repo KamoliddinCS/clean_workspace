@@ -1,2 +1,2 @@
 # clean_workspace
-Tides up your Desktop)
+Tidy up your Windows OS desktop
